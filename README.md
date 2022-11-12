@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **adelingabriel08/adelingabriel08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,16 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <p>Computer science student in the 4th year at The Polytechnic University of Timisoara.</p>
-- 🔭 I’m currently working as an ASP.NET MVC developer at The Access Group
+<p>🔭 I’m currently working as an ASP.NET MVC developer at The Access Group.</p>
 
-```javascript
-const adelin = {
-  code: [Javascript, Typescript, HTML, CSS, C, C#, Python, Java],
-  frameworkOfChoice: ASP.NET MVC,
-  hobbies: ['coding', 'volunteering', 'games'],
-  communities: ['LigaAC']
-}
-```
 
 ***
 
