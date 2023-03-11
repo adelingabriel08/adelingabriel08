@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/adelingabriel08">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelingabriel08&layout=compact&langs_count=5&theme=gotham" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelingabriel08&hide_border=true&layout=compact&langs_count=5&theme=gotham" height="180" />
 </a>
 </div>
