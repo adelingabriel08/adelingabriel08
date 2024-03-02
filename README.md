@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<p>Computer science student in the 4th year at The Polytechnic University of Timisoara.</p>
+<p>Computer science master in software engineering student in the 1st year at The Polytechnic University of Timisoara.</p>
 <p>🔭 I’m currently working as an ASP.NET MVC developer at The Access Group.</p>
 
 
